@@ -1,1 +1,1 @@
-#python file demo
+print("python")
